@@ -4,3 +4,4 @@ Creating a new branch is quick AND simple.
 Checkout to new branch.
 Test add.
 fix bug.
+Test git stash.
